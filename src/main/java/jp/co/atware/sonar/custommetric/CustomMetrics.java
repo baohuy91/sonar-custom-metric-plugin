@@ -1,6 +1,5 @@
 package jp.co.atware.sonar.custommetric;
 
-import org.sonar.api.measures.CoreMetrics;
 import org.sonar.api.measures.Metric;
 import org.sonar.api.measures.Metrics;
 
