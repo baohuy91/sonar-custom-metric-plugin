@@ -29,7 +29,7 @@ public class CustomReportSensorTest {
         file = new File(BASE_DIR, reportFilePath);
         file.getParentFile().mkdirs();
         final PrintWriter printWriter = new PrintWriter(file);
-        printWriter.println("metricId,name,value");
+        printWriter.println("metricId,value");
         printWriter.println(INTEGER_METRIC.key() + ",80");
         printWriter.println(MILLIS_METRIC.key() + ",90");
         printWriter.println(PERCENT_METRIC.key() + ",70.05");
