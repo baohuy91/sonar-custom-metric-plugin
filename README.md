@@ -1,4 +1,8 @@
 # SonarQube Custom Metric Plugin
+![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=jp.co.atware%3Asonar-custom-metric-plugin&metric=alert_status)
+![Coverage](https://sonarcloud.io/api/project_badges/measure?project=jp.co.atware%3Asonar-custom-metric-plugin&metric=coverage)
+![Bug](https://sonarcloud.io/api/project_badges/measure?project=jp.co.atware%3Asonar-custom-metric-plugin&metric=bugs)
+
 
 This is a custom plugin for [Sonarqube](https://www.sonarqube.org/) - Continuous code quality inspection tool.
 
